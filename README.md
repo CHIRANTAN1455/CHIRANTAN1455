@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CHIRANTAN1455
-- 👀 I’m interested in GRAPHIC Designing , UX/UI Designing
+- 👀 I’m interested in FLUTTER DEV
 - 🌱 I’m currently a undergrad at VIT persuing Computer science engineering.
 - 💞️ I’m looking to collaborate on social media pages , Website Developers designing front end.
 - 📫 How to reach me e-mail (chirantan1455@gmail.com) , Phone no (+91 8847658595)
